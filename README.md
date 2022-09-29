@@ -25,4 +25,6 @@ To run the script on background :
 `falcon2thehive.py &`
 
 
-## Screenshots
+## Screenshots :
+![Screenshot](image-2022-9-16_18-23-55.png)
+![Screenshot](image-2022-9-16_18-24-52.png)
