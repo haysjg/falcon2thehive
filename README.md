@@ -21,4 +21,4 @@ THEHIVE_API_KEY = 'XXXXXXXXXXXXXXX'     # Your Hive API Key
 
 ## Usage :
 To run the script on background :
-`$ falcon2thehive.py &`
+`falcon2thehive.py &`
